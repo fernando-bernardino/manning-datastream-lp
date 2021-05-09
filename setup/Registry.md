@@ -2,8 +2,8 @@
 
 Registry setup:
 
-![Registry screenshot](registry.png)
+![Registry screenshot](./registry.png)
 
 Device setup:
 
-![Device screenshot](device.png)
+![Device screenshot](./device.png)
