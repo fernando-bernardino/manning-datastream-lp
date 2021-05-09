@@ -1,9 +1,9 @@
 # 2. Setup communication between CloudIoT Core & Cloud Pub/Sub Topic
 
-Subscription setup:
+## Subscription setup:
 
 ![Subscription screenshot](subscription.png)
 
-Device setup:
+## Topic setup:
 
 ![topic](topic.png)

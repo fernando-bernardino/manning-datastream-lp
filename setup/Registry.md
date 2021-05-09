@@ -1,9 +1,9 @@
 # 1. Setup CloudIoT Core
 
-Registry setup:
+## Registry setup:
 
 ![Registry screenshot](./registry.png)
 
-Device setup:
+## Device setup:
 
 ![Device screenshot](./device.png)
