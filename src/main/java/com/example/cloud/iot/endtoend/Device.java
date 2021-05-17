@@ -11,7 +11,7 @@ import java.util.Random;
 
 /** Represents the state of a single device. */
 public class Device implements MqttCallback {
-  private static final DateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
+  private static final DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
   private boolean isConnected = false;
   private Date timestamp;
